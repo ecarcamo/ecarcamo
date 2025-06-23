@@ -1,9 +1,13 @@
 # 💫 About Me:
-[es]
+
 👋 ¡Hola! Soy Esteban, actualmente trabajo como Implementation Developer Jr. en Sento AI y soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
+
 💻 Apasionado por la programación competitiva, participo activamente en concursos como el ICPC 2025, donde pongo a prueba mis habilidades en resolución de problemas, algoritmos y estructuras de datos.
+
 🚀 En mi trabajo estoy aprendiendo sobre buenas prácticas de desarrollo, trabajo en equipo y escritura de código limpio y mantenible, lo cual ha fortalecido mi enfoque profesional y técnico.
+
 🛠️ Me encanta explorar nuevas tecnologías, aprender constantemente y combinar diferentes áreas del conocimiento.
+
 🎯 Fun fact: Me gusta hacer de todo un poco... ¡y a veces todo al mismo tiempo!
 
 
