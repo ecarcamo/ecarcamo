@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦾 About Me:
 
 👋 ¡Hola! Soy Esteban, actualmente trabajo como Implementation Developer Jr. en Sento AI y soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
 
