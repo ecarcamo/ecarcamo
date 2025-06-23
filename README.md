@@ -1,6 +1,6 @@
 # 💫 About Me:
 [es]
-👋 ¡Hola! Soy Amigo, actualmente trabajo como Implementation Developer Jr. en Sento AI y soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
+👋 ¡Hola! Soy Esteban, actualmente trabajo como Implementation Developer Jr. en Sento AI y soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
 
 💻 Apasionado por la programación competitiva, participo activamente en concursos como el ICPC 2025, donde pongo a prueba mis habilidades en resolución de problemas, algoritmos y estructuras de datos.
 
@@ -10,7 +10,7 @@
 🎯 Fun fact: Me gusta hacer de todo un poco... ¡y a veces todo al mismo tiempo!
 
 [en] 
-👋 Hi! I'm Amigo — currently working as a Junior Implementation Developer at Sento AI and studying Computer Science at the Universidad del Valle de Guatemala (UVG).
+👋 Hi! I'm Esteban — currently working as a Junior Implementation Developer at Sento AI and studying Computer Science at the Universidad del Valle de Guatemala (UVG).
 
 💻 I'm passionate about competitive programming and actively participate in contests like ICPC 2025, where I enjoy tackling algorithmic challenges and complex problem-solving.
 
