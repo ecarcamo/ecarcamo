@@ -1,6 +1,23 @@
 # 💫 About Me:
-Estoy trabajand como implementation developer Jr en Sento AI<br>Soy estudiante de Computer Science en UVG<br>Me gusta la programación competitiva, y estoy concursando en el ICPC 2025<br>Estoy aprendiendo mucho de buenas prácticas de programación en un entorno de trabajo<br>Fun fact: Quiero hacer de todo un poco y muchas cosas al mismo tiempo
+[es]
+👋 ¡Hola! Soy Amigo, actualmente trabajo como Implementation Developer Jr. en Sento AI y soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
 
+💻 Apasionado por la programación competitiva, participo activamente en concursos como el ICPC 2025, donde pongo a prueba mis habilidades en resolución de problemas, algoritmos y estructuras de datos.
+
+🚀 En mi trabajo estoy aprendiendo sobre buenas prácticas de desarrollo, trabajo en equipo y escritura de código limpio y mantenible, lo cual ha fortalecido mi enfoque profesional y técnico.
+
+🛠️ Me encanta explorar nuevas tecnologías, aprender constantemente y combinar diferentes áreas del conocimiento.
+🎯 Fun fact: Me gusta hacer de todo un poco... ¡y a veces todo al mismo tiempo!
+
+[en] 
+👋 Hi! I'm Amigo — currently working as a Junior Implementation Developer at Sento AI and studying Computer Science at the Universidad del Valle de Guatemala (UVG).
+
+💻 I'm passionate about competitive programming and actively participate in contests like ICPC 2025, where I enjoy tackling algorithmic challenges and complex problem-solving.
+
+🚀 Through my work experience, I'm gaining strong foundations in software development best practices, clean code, and effective team collaboration — all of which are shaping my professional growth.
+
+🛠️ I'm always eager to explore new technologies and learn across disciplines.
+🎯 Fun fact: I like doing a bit of everything… often all at once!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/est_cu.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Esteban Cárcamo) 
