@@ -1,6 +1,4 @@
-# 🦾 About Me:
-
-👋 ¡Hola! Soy [Esteban](https://www.linkedin.com/in/esteban-c%C3%A1rcamo-726654197/), actualmente trabajo como Implementation Developer Jr. en Sento AI y también soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
+👋 ¡Hola! Soy [Esteban Cárcamo](https://www.linkedin.com/in/esteban-c%C3%A1rcamo-726654197/), actualmente trabajo como Implementation Developer Jr. en Sento AI y también soy estudiante de Computer Science en la Universidad del Valle de Guatemala (UVG).
 
 💻 Apasionado por la programación competitiva, participo activamente en concursos como el ICPC, donde pongo a prueba mis habilidades en resolución de problemas, algoritmos y estructuras de datos.
 
