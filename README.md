@@ -10,7 +10,6 @@
 
 🎯 Fun fact: Me gusta hacer de todo un poco... ¡y a veces todo al mismo tiempo!
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🌐 Socials:
@@ -52,7 +51,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ecarcamo&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ecarcamo&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarcamo&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -62,5 +60,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ecarcamo&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ecarcamo&icon=0&color=3)](https://visitcount.itsvg.in)
